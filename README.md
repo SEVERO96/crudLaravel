@@ -1,4 +1,4 @@
-#Compilar y ejecutar el proyecto
+# Compilar y ejecutar el proyecto
 
 ### Ejecutar la base de datos de Postgres
 
