@@ -1,3 +1,5 @@
+#Compilar y ejecutar el proyecto
+
 ### Ejecutar la base de datos de Postgres
 
 Primero, necesitamos ejecutar la base de datos de Postgres.
